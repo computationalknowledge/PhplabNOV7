@@ -1,0 +1,7 @@
+<?php
+$ages = array(
+"John" => 34, 
+"Mary" => 27, 
+"Bob" => 55 );
+echo $ages["John"];
+?>
